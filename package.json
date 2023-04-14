@@ -1,0 +1,22 @@
+{
+  "name": "convert-mm",
+  "version": "1.0.0",
+  "description": "Convert MM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kaung-san-hein/convert-mm.git"
+  },
+  "keywords": [
+    "MM"
+  ],
+  "author": "Kaung San Hein",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaung-san-hein/convert-mm/issues"
+  },
+  "homepage": "https://github.com/kaung-san-hein/convert-mm#readme"
+}
